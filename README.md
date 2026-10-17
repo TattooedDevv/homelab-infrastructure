@@ -21,6 +21,8 @@ Engineering notes, reproducible experiments, architecture decisions, and trouble
 
 - [Certification alignment](docs/learning/linux-foundations-certification-alignment.md) — Linux topics mapped to RHCSA EX200, LFCS and later certification foundations.
 
+- [Rootless Podman and AppArmor troubleshooting](docs/learning/rootless-podman-apparmor-troubleshooting.md) — sanitized diagnostic walkthrough, tested remedy, caveats and rollback.
+
 ## Learning workflow
 For each infrastructure milestone: identify applicable certification objectives, consult official objectives, implement and test the feature, capture evidence, document problems/fixes, and write a short retrospective. Current Linux/networking exercises overlap with RHCSA and LFCS skills, but are not substitutes for full exam preparation.
 
