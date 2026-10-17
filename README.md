@@ -19,6 +19,8 @@ Engineering notes, reproducible experiments, architecture decisions, and trouble
 - [Linux permissions study guide](docs/learning/linux-permissions-study-guide.md) — numeric permissions, review cards, and exercises.
 - [Scenario review lab](docs/learning/linux-foundations-review-lab.md) — timed practice using fictional, disposable systems.
 
+- [Certification alignment](docs/learning/linux-foundations-certification-alignment.md) — Linux topics mapped to RHCSA EX200, LFCS and later certification foundations.
+
 ## Learning workflow
 For each infrastructure milestone: identify applicable certification objectives, consult official objectives, implement and test the feature, capture evidence, document problems/fixes, and write a short retrospective. Current Linux/networking exercises overlap with RHCSA and LFCS skills, but are not substitutes for full exam preparation.
 
