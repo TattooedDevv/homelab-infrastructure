@@ -14,6 +14,11 @@ Engineering notes, reproducible experiments, architecture decisions, and trouble
 | --- | --- | --- |
 | Networking | [Remote homelab access with pfSense, WireGuard, and SSH](docs/networking/wireguard-remote-access/README.md) | Implemented and verified on Ubuntu client; ongoing reliability checks |
 
+## Linux foundations study material
+- [Command and configuration reference](docs/learning/linux-foundations-command-reference.md) — commands, flags, system inspection, storage, NFS and systemd.
+- [Linux permissions study guide](docs/learning/linux-permissions-study-guide.md) — numeric permissions, review cards, and exercises.
+- [Scenario review lab](docs/learning/linux-foundations-review-lab.md) — timed practice using fictional, disposable systems.
+
 ## Learning workflow
 For each infrastructure milestone: identify applicable certification objectives, consult official objectives, implement and test the feature, capture evidence, document problems/fixes, and write a short retrospective. Current Linux/networking exercises overlap with RHCSA and LFCS skills, but are not substitutes for full exam preparation.
 
